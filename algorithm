@@ -1,0 +1,6 @@
+                                            Algorithm for square root of any number
+Step1: start
+Step2: Make an initial guess. Guess any positive number X0.
+Step3: Imporove the guess. Apply the formula X1 = (X0 + s/ X0)/2. The number X1 is a better approximation to sqrt(S).
+Step4: Iterate untill convergence. Apply the formula Xn+1 = (Xn + S/ Xn)/2 until the process converges. 
+Step5: stop
